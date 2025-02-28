@@ -93,16 +93,16 @@ Luna 22,Luna 22,29-May-74,Proton-K/D,Soviet Union Lavochkin,Orbiter,Successful,E
 Luna 23,Luna 23,16-Oct-75,Proton-K/D,Soviet Union Lavochkin,Lander,Partial failure,"Tipped over upon landing, no sample return attempt. Functioned for three days on the surface."
 Luna E-8-5M No.412,Luna E-8-5M No.412,16-Oct-75,Proton-K/D,Soviet Union Lavochkin,"Lander,Sample Return",Launch failure,Failed to orbit.
 Luna 24,Luna 24,09-Aug-76,Proton-K/D,Soviet Union Lavochkin,"Lander,Sample Return",Successful,"Landed in Mare Crisium, returned lunar samples. Final Soviet mission to the Moon."
-ISEE-3,ISEE-3,12-Aug-78,Delta 2914,United States NASA,Flyby,Successful,Flybys in 1982 and 1983 en route to comet 21P/Giacobini–Zinner.
+ISEE-3,ISEE-3,12-Aug-78,Delta 2914,United States NASA,Flyby,Successful,Flybys in 1982 and 1983 en route to comet 21P/GiacobiniÂ–Zinner.
 Hiten,Hiten,24-Jan-90,Mu-3S-II,Japan ISAS,Orbiter,Successful,"Designed for flyby, placed into selenocentric orbit. Also carried Hagoromo which failed."
 Hiten,Hagoromo,24-Jan-90,Mu-4S-II,Japan ISAS,Orbiter,Spacecraft failure,"Carried by Hiten, intended for flyby, deorbited in 1993 after Hiten failure."
 Geotail,Geotail,24-Jul-92,Delta II 6925,Japan United States ISAS/NASA,Flyby,Successful,Series of flybys to regulate high Earth orbit.
-WIND,WIND,01-Nov-94,Delta II 7925-10,United States NASA,Flyby,Successful,Made flybys to reach the Earth–Sun L1 Lagrangian point.
+WIND,WIND,01-Nov-94,Delta II 7925-10,United States NASA,Flyby,Successful,Made flybys to reach the EarthÂ–Sun L1 Lagrangian point.
 Clementine,Clementine,25-Jan-94,Titan II (23)G Star-37FM,United States USAF/NASA,Orbiter,Successful,"Completed lunar objectives, failed after departing selenocentric orbit."
 HGS-1,HGS-1,24-Dec-97,Proton-K/DM3,United States Hughes,Flyby,Successful,"Communications satellite, made flybys en route to geosynchronous orbit."
 Lunar Prospector,Lunar Prospector,07-Jan-98,Athena II,United States NASA,Orbiter,Successful,"Ended mission on July 31, 1999."
 Nozomi,Nozomi,03-Jul-98,M-V,Japan ISAS,Flyby,Successful,Made two flybys en route to Mars.
-WMAP,WMAP,30-Jun-01,Delta II 7425-10,United States NASA,Flyby,Successful,Flyby to reach the Earth–Sun L2 Lagrangian point.
+WMAP,WMAP,30-Jun-01,Delta II 7425-10,United States NASA,Flyby,Successful,Flyby to reach the EarthÂ–Sun L2 Lagrangian point.
 SMART-1,SMART-1,27-Sep-03,Ariane 5G,European Union ESA,Orbiter,Successful,"Impacted Moon in 2006, ESA's first lunar impact."
 STEREO A,STEREO A,25-Oct-06,Delta II 7925-10L,United States NASA,Flyby,Successful,One component of STEREO mission.
 STEREO B,STEREO B,25-Oct-06,Delta II 7925-11L,United States NASA,Flyby,Successful,Second component of STEREO mission.
@@ -126,7 +126,7 @@ Chang'e 5-T1,Chang'e 5-T1,23-Oct-14,Long March 3C,China CNSA,Orbiter,Successful,
 Chang'e 5-T1,Return Capsule,23-Oct-14,Long March 3C,China CNSA,Orbiter,Successful,Demonstration of re-entry capsule for Chang'e 6 sample-return mission.
 Manfred Memorial Moon Mission,Manfred Memorial Moon Mission,23-Oct-14,Long March 3C,Luxembourg LuxSpace,Flyby / Impactor (post mission),Successful,Attached to third stage of CZ-3C used to launch Chang'e 5-T1. Impacted the Moon on 4 March 2022.
 TESS,TESS,18-Apr-18,Falcon 9 Full Thrust,United States NASA,Flyby,Successful,Flyby on 17 May 2018 to designated high Earth orbit.
-Queqiao,Queqiao relay satellite,21-May-18,Long March 4C,China CNSA,Relay Satellite,Operational,Entered Earth–Moon L2 orbit to support Chang'e 4 mission.
+Queqiao,Queqiao relay satellite,21-May-18,Long March 4C,China CNSA,Relay Satellite,Operational,Entered EarthÂ–Moon L2 orbit to support Chang'e 4 mission.
 Longjiang-1,Longjiang-1,21-May-18,Long March 4C,China CNSA,Orbiter,Spacecraft failure,Did not enter Moon orbit.
 Longjiang-2,Longjiang-2,21-May-18,Long March 4C,China CNSA,Orbiter,Successful,Operated in lunar orbit until impacting lunar surface on 31 July 2019.
 Chang'e 4,Chang'e 4,07-Dec-18,Long March 3B,China CNSA,Lander,Operational,First soft landing on the far side of the Moon. Deployed Yutu-2 rover.
